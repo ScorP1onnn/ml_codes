@@ -1,0 +1,79 @@
+He Used two supervised machine learning algorithms, support vector machines and random forests
+
+He has already worked on these two. I think he would be looking for a student who can implement deep neural networks as a starting test
+
+Also learn how to fit a quasar X-Shooter spectrum (especailly his tools, maybe): LEARN SCULPTOR
+
+Undertand completeness
+
+
+
+https://github.com/mhuertascompany/DL_ED127_2020/tree/master
+
+
+You can use these data sets for practise
+
+https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data (This will be important)
+https://www.kaggle.com/datasets?tags=7401-Astronomy
+https://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/tutorial/astronomy/regression.html (redshift estimation from regression)
+
+Bayesian Neural Network
+https://github.com/exoml/plan-net/tree/master (BNN used in exoplanet astronomy)
+https://www.pymc.io/projects/examples/en/latest/variational_inference/bayesian_neural_network_advi.html
+https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial
+
+This Code is pretty good to learn from : https://www.kaggle.com/code/ensarkayhan/stellar-classification-with-different-ml-models
+					  https://www.kaggle.com/code/gulerkandeger/stellar-classification-96-accuracy	
+
+
+https://arxiv.org/pdf/2209.02725 : Eilers paper on Gaussian Process Latent Variable Model
+
+
+
+https://365datascience.com/
+
+
+https://wujiwang-astro.github.io/ (worked on radio loud quasars at z=3-5)
+
+
+############################################################################################################################################
+
+
+SMOTE oversampling: https://medium.com/@corymaklin/synthetic-minority-over-sampling-technique-smote-7d419696b88c
+
+https://ned.ipac.caltech.edu/level5/March19/Baron/Baron2.html
+
+Probabilistic Graphical Models in Python: https://www.youtube.com/watch?v=DEHqIxX1Kq4
+Eric J. Ma - An Attempt At Demystifying Bayesian Deep Learning
+Peadar Coyle: Variational Inference and Python
+
+Bayesian Neural Network | Deep Learning by TwinEd Productions
+Bayesian Inference: An Easy Example: https://www.youtube.com/watch?v=I4dkEALQv34
+(1/6) Bayesian inference workflow in astronomy and physics
+
+
+
+https://twiecki.io/blog/2015/11/10/mcmc-sampling/
+https://www.pymc.io/projects/examples/en/latest/variational_inference/bayesian_neural_network_advi.html
+https://github.com/french-paragon/BayesianNeuralNetwork-Tutorial-Metarepos/tree/master
+file:///home/sai/Downloads/supplementary_material.pdf
+https://arxiv.org/pdf/2304.02595
+https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/ (IMP read)
+
+
+BNN codes via MCMC (group)
+https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530647
+https://github.com/dsilvestro/npBNN/tree/master
+
+
+
+
+IID (Independent and Identically Distributed)
+https://www.youtube.com/watch?v=lhzndcgCXeo
+
+
+BNN codes
+https://github.com/Harry24k/bayesian-neural-network-pytorch
+https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial
+
