@@ -1,0 +1,7 @@
+1) create env: conda create --name <env name>
+
+2) conda install -c anaconda ipykernel
+
+3) pip install jupyter --user
+
+4) python -m ipykernel install --user --name=<env name>
